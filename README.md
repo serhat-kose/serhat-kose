@@ -1,16 +1,17 @@
-### Hi there 👋
+## Java Software Developer 🚀
 
-<!--
-**serhat-kose/serhat-kose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+## ⏲ What am i doing now:
+I'm developing Java Spring Boot ,Spring REST ,Spring MVC , Vue.js ,React.js and Node.js projects 🚀
+I like to constantly improve myself and always learn new things. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Languages and Skills:
+- Java EE,OOP
+- Spring Boot,Spring REST
+- Spring MVC
+- Node.js ,Express Framework
+- Vue.js
+- React.js
+- HTML,CSS,Bootstrap
+- PostgreSQL,MySQL,MongoDB,Oracle DB
